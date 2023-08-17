@@ -16,7 +16,7 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > pkg install ffmpeg
 > pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/KayzenMDKayzenBot
+> git clone https://github.com/KayzenMD/KayzenBot
 > cd KayzenBot
 > bash install.sh
 > node index.js
